@@ -1,0 +1,9 @@
+Building Hon
+
+See doc/readme-qt.rst for instructions on building Hon QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hon.
+
+See doc/build-*.txt for instructions on building hond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hon.
